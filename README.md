@@ -1,1 +1,1 @@
-confirm delete dialog
+confirm delete dialog dengan bootstrap
